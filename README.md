@@ -4,7 +4,7 @@ Architecture documentation, workflow diagrams, and design decisions for the mult
 
 **No source code is included** — this repo documents the *thinking* behind the systems: how agents are decomposed, how context is managed, where humans stay in the loop, and why specific design tradeoffs were made.
 
-> For live dashboard screenshots and project details, visit my [portfolio](https://tinyurl.com/jasoncarpenter-portfolio).
+> **[View live dashboard screenshots and full project details on my portfolio site](https://tinyurl.com/jasoncarpenter-portfolio)**
 
 ---
 
