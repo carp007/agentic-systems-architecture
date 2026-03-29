@@ -1,4 +1,4 @@
-<![CDATA[# Agentic Systems Architecture
+# Agentic Systems Architecture
 
 Architecture documentation, workflow diagrams, and design decisions for the multi-agent systems I've built on [OpenClaw](https://openclaw.com). These are production systems that run daily on scheduled cron jobs, scrape live data, make structured decisions, and deliver results through dashboards and automated notifications.
 
@@ -286,4 +286,3 @@ These patterns appear across all the systems:
 Built by [Jason Carpenter](https://tinyurl.com/jasoncarpenter-portfolio) — Applied AI Engineer, Metro Detroit, MI.
 
 These systems are in daily production use. Architecture docs are shared publicly to demonstrate design thinking; source code remains private.
-]]>
